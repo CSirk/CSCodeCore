@@ -1,0 +1,5 @@
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSLogger\bin\Debug\CSLogger.dll
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSLogger\bin\Debug\CSLogger.pdb
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSLogger\obj\Debug\CSLogger.csprojResolveAssemblyReference.cache
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSLogger\obj\Debug\CSLogger.dll
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSLogger\obj\Debug\CSLogger.pdb
