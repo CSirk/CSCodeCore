@@ -1,0 +1,10 @@
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test\bin\Debug\CSCodeCore.Test.dll
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test\bin\Debug\CSCodeCore.Test.pdb
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test\bin\Debug\CSLogger.dll
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test\bin\Debug\nunit.framework.dll
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test\bin\Debug\CSLogger.pdb
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test\bin\Debug\nunit.framework.xml
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test\obj\Debug\CSCodeCore.Test.csprojResolveAssemblyReference.cache
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test\obj\Debug\CSCodeCore.Test.dll
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test\obj\Debug\CSCodeCore.Test.pdb
