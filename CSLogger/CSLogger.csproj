@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Base_Classes\LogBase.cs" />
     <Compile Include="Extension_Classes\BoolExtensions.cs" />
+    <Compile Include="Extension_Classes\DoubleExtensions.cs" />
     <Compile Include="Extension_Classes\EnumerableExtensions.cs" />
     <Compile Include="Extension_Classes\IntegerExtensions.cs" />
     <Compile Include="Extension_Classes\StringExtensions.cs" />
