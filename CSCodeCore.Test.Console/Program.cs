@@ -22,10 +22,12 @@ namespace CSCodeCore.Test.Console
             test1.WriteToConsole(nameof(test1));
             test2.WriteToConsole();
             test3.AddToErrorLog(nameof(test3));
+            test3.AddToInfoLog(nameof(test3));
 
             listOfTest4.WriteToConsole();
 
             ConsoleLogger.PrintErrorLog();
+            ConsoleLogger.PrintInfoLog();
 
             System.Console.ReadKey();
         }
