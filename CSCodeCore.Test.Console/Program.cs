@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CSLogger;
 using CSLogger.Extension_Classes;
+using CSLogger.Logger_Classes;
 
 namespace CSCodeCore.Test.Console
 {
@@ -24,7 +25,9 @@ namespace CSCodeCore.Test.Console
 
             listOfTest4.WriteToConsole();
 
-           System.Console.ReadKey();
+            ConsoleLogger.PrintErrorLog();
+
+            System.Console.ReadKey();
         }
     }
 }
