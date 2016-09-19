@@ -26,7 +26,7 @@ namespace CSLogger.Logger_Classes
 
         private static void WriteToFile(IEnumerable<string> logToWrite, string path)
         {
-            using (var sw = new StreamWriter(path))
+            using (var sw = new StreamWriter(path, true))
             {
                 foreach (var logEntry in logToWrite)
                 {
