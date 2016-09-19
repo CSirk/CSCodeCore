@@ -29,6 +29,9 @@ namespace CSCodeCore.Test.Console
             ConsoleLogger.PrintErrorLog();
             ConsoleLogger.PrintInfoLog();
 
+            FileLogger.WriteErrorLogToFile();
+            FileLogger.WriteInfoLogToFile();
+
             System.Console.ReadKey();
         }
     }
