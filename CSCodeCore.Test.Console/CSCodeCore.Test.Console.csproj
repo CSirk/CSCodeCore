@@ -4,15 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EE5C01D1-9271-483E-B9E7-F21BAF7B3C9D}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <ProjectGuid>{E1B5215E-6A3D-47E5-9BF5-E887ABD5361A}</ProjectGuid>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CSLogger</RootNamespace>
-    <AssemblyName>CSLogger</AssemblyName>
+    <RootNamespace>CSCodeCore.Test.Console</RootNamespace>
+    <AssemblyName>CSCodeCore.Test.Console</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -22,6 +24,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -40,19 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Base_Classes\LogBase.cs" />
-    <Compile Include="Extension_Classes\BoolExtensions.cs" />
-    <Compile Include="Extension_Classes\DoubleExtensions.cs" />
-    <Compile Include="Extension_Classes\EnumerableExtensions.cs" />
-    <Compile Include="Extension_Classes\ILogableExtensions.cs" />
-    <Compile Include="Extension_Classes\IntegerExtensions.cs" />
-    <Compile Include="Extension_Classes\StringExtensions.cs" />
-    <Compile Include="Interfaces\ILogable.cs" />
-    <Compile Include="Logger_Classes\ConsoleLogger.cs" />
-    <Compile Include="Logger_Classes\FileLogger.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CSLogger\CSLogger.csproj">
+      <Project>{ee5c01d1-9271-483e-b9e7-f21baf7b3c9d}</Project>
+      <Name>CSLogger</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

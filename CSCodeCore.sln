@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLogger", "CSLogger\CSLogg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSCodeCore.Test", "CSCodeCore.Test\CSCodeCore.Test.csproj", "{0A47DC51-14E0-41F9-B7B6-0A9E5700B0F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSCodeCore.Test.Console", "CSCodeCore.Test.Console\CSCodeCore.Test.Console.csproj", "{E1B5215E-6A3D-47E5-9BF5-E887ABD5361A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0A47DC51-14E0-41F9-B7B6-0A9E5700B0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A47DC51-14E0-41F9-B7B6-0A9E5700B0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A47DC51-14E0-41F9-B7B6-0A9E5700B0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B5215E-6A3D-47E5-9BF5-E887ABD5361A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B5215E-6A3D-47E5-9BF5-E887ABD5361A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B5215E-6A3D-47E5-9BF5-E887ABD5361A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B5215E-6A3D-47E5-9BF5-E887ABD5361A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

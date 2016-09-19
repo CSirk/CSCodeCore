@@ -30,7 +30,7 @@ namespace CSLogger.Extension_Classes
         public static void AddToErrorLog(this bool boolValue, string boolDescription)
         {
             var formattedEntry = LogBase.FormatLogEntry(boolValue, boolDescription);
-            LogBase.AddValueToInfoLog(formattedEntry);
+            LogBase.AddValueToErrorLog(formattedEntry);
         }
     }
 }

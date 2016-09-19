@@ -1,0 +1,8 @@
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test.Console\bin\Debug\CSCodeCore.Test.Console.exe.config
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test.Console\obj\Debug\CSCodeCore.Test.Console.csprojResolveAssemblyReference.cache
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test.Console\bin\Debug\CSCodeCore.Test.Console.exe
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test.Console\bin\Debug\CSCodeCore.Test.Console.pdb
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test.Console\bin\Debug\CSLogger.dll
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test.Console\bin\Debug\CSLogger.pdb
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test.Console\obj\Debug\CSCodeCore.Test.Console.exe
+C:\Users\Cody.X120e\Dropbox\Programming\Projects\C#\Git\CSCodeCore\CSCodeCore.Test.Console\obj\Debug\CSCodeCore.Test.Console.pdb
